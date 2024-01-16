@@ -50,7 +50,7 @@ export default function Index() {
             </div>
             <div className="w-full mt-3">
               <div className="font-semibold text-3xl font_sans">
-                Muhamad Yusuf Rahmana Ganteng
+                Muhamad Yusuf Rahmana 
               </div>
               <div className="text-lg">
                 Frontend Web Developer
