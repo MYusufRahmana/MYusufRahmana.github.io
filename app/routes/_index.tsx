@@ -1,6 +1,6 @@
 import { Link, MetaFunction } from "@remix-run/react";
 import Card from "~/components/card";
-import profile from '../../assets/Profile Pic Github Yusuf.png'
+import profile from '../../assets/FotoProfil.png'
 import SectionTitle from "~/components/sectionTitle";
 import RedirectLink from "~/components/redirectLink";
 import chevron_right from '../../assets/chevron-right.svg'
@@ -44,8 +44,8 @@ export default function Index() {
         <Card>
           <div className="md:flex gap-10 text-center w-full">
             <div className="w-fit md:ms-8 mx-auto">
-              <div className="relative w-24 h-24">
-                <img className="rounded-full border-2 border-gray-100 shadow-sm" src={profile} alt="profile picture" />
+              <div className="relative w-28 h-28">
+                <img className="rounded-full border-3 border-gray-100 shadow-sm" src={profile} alt="profile picture" />
               </div>
             </div>
             <div className="w-full mt-3">
