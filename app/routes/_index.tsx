@@ -163,9 +163,9 @@ export default function Index() {
               </div>
               <div>
 
-                <SocialMedia link="www.linkedin.com/in/myusufrhmn/" img={logo_linkedin} username="myusufrhmn" />
+                <SocialMedia link="https://www.linkedin.com/in/myusufrhmn/" img={logo_linkedin} username="myusufrhmn" />
 
-                <SocialMedia link="github.com/MYusufRahmana/" img={logo_github} username="MYusufRahmana" />
+                <SocialMedia link="https://github.com/MYusufRahmana" img={logo_github} username="MYusufRahmana" />
 
                 <SocialMedia link="https://www.instagram.com/myusufrhmn/" img={logo_instagram} username="myusufrhmn" />
                 <SocialMedia img={logo_email} username="yusufrahmana14@gmail.com" />
