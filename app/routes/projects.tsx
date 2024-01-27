@@ -6,6 +6,7 @@ import SectionTitle from "~/components/sectionTitle";
 import absensi from "../../assets/project-pictures/AplikasiAbsensi.png";
 import Gadget4Fun from "../../assets/project-pictures/LogoGadget.png";
 import kasir from "../../assets/project-pictures/kasir.png"
+import shoping from "../../assets/project-pictures/ShopingNotes.png"
 
 export const meta: MetaFunction = () => {
   return [
@@ -48,6 +49,12 @@ const Projects = () => {
     {
       year: '2024',
       projects: [
+        {
+          link: 'https://aplikasibelanja.netlify.app',
+          title: 'Shoping Notes',
+          description: '',
+          img: shoping
+        },
       
       ]
     },
