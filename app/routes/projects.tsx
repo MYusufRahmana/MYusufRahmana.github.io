@@ -52,7 +52,7 @@ const Projects = () => {
         {
           link: 'https://aplikasibelanja.netlify.app',
           title: 'Shoping Notes',
-          description: '',
+          description: '"Shopping Notes" is an application built using the React programming language, which serves the purpose of recording all the items we intend to buy or shop for.',
           img: shoping
         },
       
