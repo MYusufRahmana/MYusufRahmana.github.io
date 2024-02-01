@@ -3,7 +3,7 @@ import Card from "~/components/card";
 import profile from '../../assets/FotoProfil.png'
 import SectionTitle from "~/components/sectionTitle";
 import RedirectLink from "~/components/redirectLink";
-import chevron_right from '../../assets/chevron-right.svg'
+import chevron_right from '../../assets/FotoProfil.png'
 import logo_github from '../../assets/logos/github.svg'
 import logo_linkedin from '../../assets/logos/linkedin.svg'
 import logo_instagram from '../../assets/logos/instagram.svg'
