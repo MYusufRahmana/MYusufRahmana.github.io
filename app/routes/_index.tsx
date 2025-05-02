@@ -69,9 +69,7 @@ export default function Index() {
                 <SectionTitle text="Description" />
               </div>
               <div className="md:text-justify">
-                "Energetic students of Multi Data University Palembang, enthusiastic about trying new things and unafraid of failure. Possessing the
-                ability to speak confidently in front of diverse audiences and adapt quickly to various environments. Capable of working independently or
-                as part of a team, I bring enthusiasm and positive energy to collaborative efforts in achieving goals."
+              Hi, I'm Yusuf, a graduate of Information Systems from Multi Data University Palembang. Although I have completed my studies and finished my final thesis defense, I have not yet graduated. I am skilled in Flutter, Laravel, JavaScript, and Firebase, with experience in both independent and team-based projects. Adaptable and enthusiastic, I excel in presenting ideas and collaborating to achieve goals
               </div>
             </div>
 

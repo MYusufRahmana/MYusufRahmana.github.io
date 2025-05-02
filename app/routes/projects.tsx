@@ -7,6 +7,7 @@ import absensi from "../../assets/project-pictures/AplikasiAbsensi.png";
 import Gadget4Fun from "../../assets/project-pictures/LogoGadget.png";
 import kasir from "../../assets/project-pictures/kasir.png"
 import shoping from "../../assets/project-pictures/ShopingNotes.png"
+import monitoring from "../../assets/project-pictures/Monitoring.png"
 
 export const meta: MetaFunction = () => {
   return [
@@ -54,6 +55,12 @@ const Projects = () => {
           title: 'Shoping Notes',
           description: '"Shopping Notes" is an application built using the React programming language, which serves the purpose of recording all the items we intend to buy or shop for.',
           img: shoping
+        },
+        {
+          link: 'https://github.com/MYusufRahmana/appMonitoringAsset',
+          title: 'Monitoring Asset',
+          description: 'The Asset Monitoring Application developed for Jasa Raharja aims to improve the efficiency and accuracy of tracking and managing company assets. This application provides a centralized platform where assets, including vehicles, equipment, and other valuable resources, can be monitored in real-time.',
+          img: monitoring
         },
       
       ]
