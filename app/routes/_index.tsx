@@ -99,7 +99,7 @@ export default function Index() {
 
                 <div className="flex gap-3">
                   <div className="font-bold whitespace-nowrap">
-                    2021 - now
+                    2021 - 2025
                   </div>
                   <div>
                     Student at <RedirectLink link='https://mdp.ac.id/'>Multi Data Palembang University</RedirectLink> with a major in <span className="font-semibold">Information System</span>.
