@@ -1,6 +1,6 @@
 import { Link, MetaFunction } from "@remix-run/react";
 import Card from "~/components/card";
-import profile from '../../assets/FotoProfil.png'
+import profile from '../../assets/PasFoto.jpeg'
 import SectionTitle from "~/components/sectionTitle";
 import RedirectLink from "~/components/redirectLink";
 import chevron_right from '../../assets/FotoProfil.png'
